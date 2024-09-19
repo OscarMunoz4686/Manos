@@ -1,0 +1,11 @@
+0 Adios
+1 Caminar
+2 Comer
+3 Dormir
+4 Hola
+5 Jugar
+6 No
+7 Quiero
+8 Sentarme
+9 Si
+10 Yo
